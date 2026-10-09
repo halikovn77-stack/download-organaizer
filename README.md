@@ -92,3 +92,13 @@ project/
 ## Лицензия
 
 Лицензия не указана. Если планируется публикация проекта, выберите подходящую лицензию.
+
+## 👨‍💻 Автор
+
+GitHub: [0xPhant0m](https://github.com/halikovn77-stack)
+
+Telegram: [@Err_0xPhant0m](https://t.me/Err_0xPhant0m)
+
+Telegram-канал: [0xPhant0m - Путь программиста](https://t.me/Channel_0xPhant0m)
+
+⭐️ Если мой проект вам помог, поставьте звезду на GitHub!
